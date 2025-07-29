@@ -3,9 +3,9 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JjdW1rbWl1cWswbWRlYjN1cXMwYTF2djlyZHRsc3UwNm9tcWpvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtaiPZNzrmRQ6YM/giphy.gif" width="75px" alt="Stewie Griffin saying hello" />
 </h1>
 
-# 💫 About Me:
+# 👦 About Me:
 
-🌱 I’m a Full stack web Developer<br>
+🎓 I’m a Full stack web Developer<br>
 ✍️ Currently building a full stack job application and interview management portal to streamline candidate hiring process<br>
 🥅 Goals: Seeking opportunities to deepen my understanding of modern technologies and contribute to the development of innovative, user-centric applications.
 
