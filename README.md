@@ -1,5 +1,5 @@
 # Hi there, I'm Paras Sharma  
-<img src="<div class="tenor-gif-embed" data-postid="25176405" data-share-method="host" data-aspect-ratio="1.00946" data-width="100%"><a href="https://tenor.com/view/stewie-hi-gif-25176405">Stewie Hi GIF</a>from <a href="https://tenor.com/search/stewie-gifs">Stewie GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="75px" alt="Stewie Griffin saying hi"/>
+<img src="https://media.tenor.com/gmELR5yNsw8AAAAi/excuseme.gif" width="75px" alt="Stewie Griffin saying hello"/>
 
 
 # 💫 About Me:
