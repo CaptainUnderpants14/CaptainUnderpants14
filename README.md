@@ -1,5 +1,5 @@
 # Hi there, I'm Paras Sharma  
-<img src="https://media.tenor.com/gmELR5yNsw8AAAAi/excuseme.gif" width="75px" alt="Stewie Griffin saying hello"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JjdW1rbWl1cWswbWRlYjN1cXMwYTF2djlyZHRsc3UwNm9tcWpvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtaiPZNzrmRQ6YM/giphy.gif" width="75px" alt="Stewie Griffin saying hello"/>
 
 
 # 💫 About Me:
