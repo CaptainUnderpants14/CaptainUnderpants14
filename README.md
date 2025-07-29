@@ -1,51 +1,60 @@
-<h1 align="center">Hi, I'm Paras Sharma 👋</h1>
-<p align="center">
-  Aspiring Full Stack Developer | Java Backend Enthusiast | Learning ReactJS
-</p>
+# Hi there, I'm Paras Sharma <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHg1dmsxaTdwcDR3MHR6d3ExdzRubHRscXZhaXhia3p1MTA1N2UzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/efaB8eipdYqiy2b3Kn/giphy.gif" width="75px"/>
 
----
+# 💫 About Me:
 
-### 🧑‍💻 About Me
+🌱 I’m a Full stack web Developer<br>
+✍️ Currently building a full stack job application and interview management portal to streamline candidate hiring process<br>
+🥅 Goals: Seeking opportunities to deepen my understanding of modern technologies and contribute to the development of innovative, user-centric applications.
 
-- 🔭 I'm currently working on: **Job Management Portal** using **Spring Boot** & **PostgreSQL**
-- 🌱 Learning: **ReactJS**, **Spring Security**, and **Microservices**
-- 💡 Passionate about backend systems, RESTful APIs, and database design
-- 💬 Ask me about: **Java, Spring Boot, REST APIs, PostgreSQL**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/<your-link>) | [Email](mailto:<your-email>)
-- 🧳 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com) _(if you have one)_
 
----
+# 🌐 Socials:
 
-### 🛠️ Tech Stack
+<div>
+    <a href="mailto:parassharma8890@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  &nbsp;
+    <a href="https://www.linkedin.com/in/paras-sharma-514a8426a/">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    &nbsp;
+</div>
 
-#### 🚀 Backend:
-- Java, Spring Boot, Spring MVC, Spring Data JPA
-- REST API Design, Hibernate
-- PostgreSQL, MySQL
+# 💻 Tech Stack:
 
-#### 💻 Frontend:
-- HTML, CSS, JavaScript (learning ReactJS)
+<div align="center">
+    <img src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white" title="Spring Security" alt="Spring Security"/>&nbsp;
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" title="Java" alt="Java"/>&nbsp;
+    <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++" alt="C++"/>&nbsp;
+    <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" title="Spring Boot" alt="Spring Boot"/>&nbsp;
+    <img src="https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white" title="JWT" alt="JWT"/>&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL"/>&nbsp;
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML5"/>&nbsp;
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" alt="CSS3"/>&nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript" alt="JavaScript"/>&nbsp;
+    <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>&nbsp;
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" title="GitHub" alt="GitHub"/>&nbsp;
+    <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" title="Postman" alt="Postman"/>&nbsp;
+    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" title="Docker" alt="Docker"/>&nbsp;
+    <img src="https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" title="Hibernate" alt="Hibernate"/>&nbsp;
+    <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" title="REST API" alt="REST API"/>&nbsp;
+    <img src="https://img.shields.io/badge/DSA-%234285F4.svg?style=for-the-badge&logo=leetcode&logoColor=white" title="DSA" alt="DSA"/>&nbsp;
+</div>
 
-#### 🧰 Tools & Platforms:
-- Postman, Git & GitHub, Maven, VS Code, IntelliJ IDEA
-- Linux, MySQL Workbench, pgAdmin
 
----
+# 📊 GitHub Stats:
 
-### 📈 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=CaptainUnderpants14&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CaptainUnderpants14&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainUnderpants14&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-github-username>&theme=radical" width="47%" />
-</p>
 
----
+# Contribution Graph:
 
-### 🔗 Connect With Me
+![](https://github-readme-activity-graph.vercel.app/graph?username=CaptainUnderpants14&theme=react-dark)](https://github.com/CaptainUnderpants14/github-readme-activity-graph)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/<your-link>" target="_blank">LinkedIn</a> •
-  <a href="mailto:<your-email>">Email</a> •
-  <a href="https://github.com/<your-github-username>">GitHub</a>
-</p>
+
+# ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
