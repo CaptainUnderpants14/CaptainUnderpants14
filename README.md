@@ -11,7 +11,7 @@
 
 # 🐍 Contributions:
 
-<img src="https://raw.githubusercontent.com/CaptainUnderpants14/CaptainUnderpants14/output/generate-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/CaptainUnderpants14/CaptainUnderpants14/output/snake.svg" alt="Snake animation" />
 
 
 # 🌐 Socials:
