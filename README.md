@@ -9,10 +9,6 @@
 ✍️ Currently building a full stack job application and interview management portal to streamline candidate hiring process<br>
 🥅 Goals: Seeking opportunities to deepen my understanding of modern technologies and contribute to the development of innovative, user-centric applications.
 
-# 🐍 Contributions:
-
-<img src="https://raw.githubusercontent.com/CaptainUnderpants14/CaptainUnderpants14/output/snake.svg" alt="Snake animation" />
-
 
 # 🌐 Socials:
 
