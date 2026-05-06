@@ -6,7 +6,7 @@
 # 👦 About Me:
 
 🎓 I'm a Full stack web Developer<br>
-✍️ Currently building a full stack job application and interview management portal to streamline candidate hiring process<br>
+✍️ Currently an assets library for frontend frameworks<br>
 🥅 Goals: Seeking opportunities to deepen my understanding of modern technologies and contribute to the development of innovative, user-centric applications.
 
 
