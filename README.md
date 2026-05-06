@@ -12,6 +12,10 @@ I'm passionate about building intelligent, scalable, and user-focused applicatio
 ✍️ Currently building an easy to use tailwind-like-code assets library for frontend frameworks<br>
 🤷‍♂️ Exploring AI and ML<br>
 
+# 🌐 Contributions:
+
+![](https://github.com/CaptainUnderpants14/CaptainUnderpants14/raw/output/github-contribution-grid-snake.svg)
+
 # 🌐 Socials:
 
 <div>
