@@ -14,7 +14,7 @@ I'm passionate about building intelligent, scalable, and user-focused applicatio
 
 # 🌐 Contributions:
 
-![](https://github.com/CaptainUnderpants14/CaptainUnderpants14/raw/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/CaptainUnderpants14/CaptainUnderpants14/output/github-contribution-grid-snake.svg)
 
 # 🌐 Socials:
 
