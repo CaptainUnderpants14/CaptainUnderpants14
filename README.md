@@ -2,16 +2,15 @@
   <span>👋 Hi there, I'm Paras Sharma</span>
 </h1>
 
-👨‍💻 Full Stack Web Developer | App Development Enthusiast | Java & Spring Boot Developer
+👨‍💻 Full Stack Web Developer | Web Developer | Java & Spring Boot Developer
 
 I'm passionate about building intelligent, scalable, and user-focused applications — blending full-stack development and modern technologies to solve real-world problems. Currently exploring backend development and cloud solutions from first principles to strengthen my foundations.
 
-# 👦 About Me:
+# 🌱 What I’m Working On:
 
-🎓 I'm a Full stack web Developer<br>
-✍️ Currently building a full stack job application and interview management portal to streamline candidate hiring process<br>
-🥅 Goals: Seeking opportunities to deepen my understanding of modern technologies and contribute to the development of innovative, user-centric applications.
-
+🎓 Building scalable full-stack web applications<br>
+✍️ Currently building an easy to use tailwind-like-code assets library for frontend frameworks<br>
+🤷‍♂️ Exploring AI and ML<br>
 
 # 🌐 Socials:
 
