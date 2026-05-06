@@ -1,12 +1,15 @@
 <h1>
-  <span>Hi there, I'm Paras Sharma</span>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JjdW1rbWl1cWswbWRlYjN1cXMwYTF2djlyZHRsc3UwNm9tcWpvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtaiPZNzrmRQ6YM/giphy.gif" width="75px"/>
+  <span>👋 Hi there, I'm Paras Sharma</span>
 </h1>
+
+👨‍💻 Full Stack Web Developer | App Development Enthusiast | Java & Spring Boot Developer
+
+I'm passionate about building intelligent, scalable, and user-focused applications — blending full-stack development and modern technologies to solve real-world problems. Currently exploring backend development and cloud solutions from first principles to strengthen my foundations.
 
 # 👦 About Me:
 
 🎓 I'm a Full stack web Developer<br>
-✍️ Currently an assets library for frontend frameworks<br>
+✍️ Currently building a full stack job application and interview management portal to streamline candidate hiring process<br>
 🥅 Goals: Seeking opportunities to deepen my understanding of modern technologies and contribute to the development of innovative, user-centric applications.
 
 
@@ -36,6 +39,7 @@
 
 **Frameworks & Libraries:**<br/>
 <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" title="React" alt="React"/>&nbsp;
+<img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" title="React Native" alt="React Native"/>&nbsp;
 <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" title="Next.js" alt="Next.js"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" title="Spring Boot" alt="Spring Boot"/>&nbsp;
 <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" title="Spring" alt="Spring"/>&nbsp;
