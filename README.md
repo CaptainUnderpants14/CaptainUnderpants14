@@ -1,11 +1,11 @@
 <h1>
   <span>Hi there, I'm Paras Sharma</span>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JjdW1rbWl1cWswbWRlYjN1cXMwYTF2djlyZHRsc3UwNm9tcWpvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtaiPZNzrmRQ6YM/giphy.gif" width="75px" alt="Stewie Griffin saying hello" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JjdW1rbWl1cWswbWRlYjN1cXMwYTF2djlyZHRsc3UwNm9tcWpvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtaiPZNzrmRQ6YM/giphy.gif" width="75px"/>
 </h1>
 
 # 👦 About Me:
 
-🎓 I’m a Full stack web Developer<br>
+🎓 I'm a Full stack web Developer<br>
 ✍️ Currently building a full stack job application and interview management portal to streamline candidate hiring process<br>
 🥅 Goals: Seeking opportunities to deepen my understanding of modern technologies and contribute to the development of innovative, user-centric applications.
 
@@ -37,6 +37,7 @@
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" alt="CSS3"/>&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript" alt="JavaScript"/>&nbsp;
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" title="React" alt="React"/>&nbsp;
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript"/>&nbsp;
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" title="AWS" alt="AWS"/>&nbsp;
     <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Tailwind CSS" alt="Tailwind CSS"/>&nbsp;
     <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" title="Spring" alt="Spring"/>&nbsp;
